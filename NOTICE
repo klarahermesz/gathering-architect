@@ -1,0 +1,106 @@
+gathering-architect
+Copyright 2026 Klara Hermesz, AI Enablement Academy
+
+Licensed under the Apache License, Version 2.0.
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Learn more:  https://aienablement.academy
+  Contact:     hello@aienablement.academy
+
+"AI Enablement Academy" and "AEA" are trademarks of AI Enablement Academy. The software is open source; the brand is not.
+
+---
+
+Third-party framework citations
+
+This skill references and credits third-party facilitation frameworks
+and methods. Section A lists those that are named and linked only,
+with none of their structure, principle wording, worksheets or
+facilitation sequences restated. Section B lists established formats
+in general facilitation practice that this skill describes in its own
+words, with the originator and the write-up we consulted both
+credited.
+
+SECTION A. Named and linked only, not reproduced:
+
+- Community Canvas (community-canvas.org, Fabian Pfortmüller, Nico
+  Luchsinger, and Sascha Mombartz, CC BY-NC-SA 4.0)
+- Community Weaving (community-weaving.org, Fabian Pfortmüller, Michel
+  Bachmann, Erin Dixon, and Sita Magnuson, CC BY-NC-SA 4.0)
+- Wenger's Communities of Practice (Etienne Wenger, "Communities of
+  Practice: Learning, Meaning, and Identity," Cambridge University
+  Press, 1998; Etienne Wenger, Richard McDermott, and William M.
+  Snyder, "Cultivating Communities of Practice: A Guide to Managing
+  Knowledge," Harvard Business School Press, 2002; copyrighted book
+  content, not Creative Commons licensed)
+- Liberating Structures (liberatingstructures.com, Henri Lipmanowicz
+  and Keith McCandless, CC BY-NC 4.0, non-commercial use only)
+- Open Space Technology (openspaceworld.org, Harrison Owen). The
+  format is described and its purpose explained; its named principles
+  and its guiding rule on participant movement are not restated, and
+  readers are directed to Owen's own materials.
+- Hyper Island Toolbox (toolbox.hyperisland.com), including the
+  IDOARRT meeting-design worksheet, named as further reading only.
+  Their check-in material is credited under Section B.
+- SessionLab (sessionlab.com), named as a method library. Several of
+  their write-ups are credited as consulted sources under Section B.
+- The Marshmallow Challenge (Tom Wujec,
+  tomwujec.com/marshmallowchallenge), named as further reading only.
+
+This skill points users to those official sources for the full
+material and carries its own original tools alongside them. For
+community work: `assets/community-quick-read.md` and
+`assets/community-audit-workshop.md`. For rapid participation: six
+of the eight methods under "Rapid Participation Methods" in
+`references/facilitation-methods.md`. Think, Pair, Room and The
+Headline and the Cause are adaptations of established formats, both
+credited under Section B below. For meetings and teams: three of the
+five methods under "Meeting & Team Methods" in the same file, plus
+`assets/opening-contract-template.md`. One Moment Each and The
+Middle First are likewise adaptations, credited under Section B.
+None of the originals require the external sources to be useful, and
+none of them are derived from those sources.
+
+SECTION B. Established formats described in our own words, with
+origin and consulted write-up credited. These are long-standing
+formats in general facilitation practice rather than proprietary
+frameworks, and `references/facilitation-methods.md` carries this
+skill's own description and step sequence for each. Where a published
+write-up informed ours, it is cited in the method's Source line:
+
+- World Café (originated by Juanita Brown and David Isaacs,
+  theworldcafe.com; write-up consulted: sessionlab.com)
+- Fishbowl discussion (general facilitation practice; write-up
+  consulted: sessionlab.com)
+- Mastermind groups (the concept originates with Napoleon Hill,
+  "Think and Grow Rich," 1937; write-up consulted: voltagecontrol.com)
+- Show and Tell / demo sessions (general practice; write-up
+  consulted: sessionlab.com)
+- Check-ins and check-outs (general practice; write-up consulted:
+  toolbox.hyperisland.com)
+- The Kaospilot Learning Arch, SET / HOLD / LAND (developed by the
+  Kaospilot school, kaospilot.dk), used as the sequencing spine in
+  `SKILL.md` and `assets/run-of-show-template.md`
+- Think-Pair-Share (developed by Frank Lyman, 1981; write-up
+  consulted: kent.edu/ctl/think-pair-share), adapted in this skill as
+  Think, Pair, Room
+- The human spectrogram (general facilitation practice; write-up
+  consulted: sessionlab.com), adapted in this skill as The Middle
+  First
+- The premortem technique (developed by Gary Klein, first published
+  as "Performing a Project Premortem," Harvard Business Review, 2007;
+  write-up consulted: gary-klein.com/premortem), adapted in this
+  skill as The Headline and the Cause
+- The Situation-Behavior-Impact (SBI) feedback model (developed by
+  the Center for Creative Leadership; write-up consulted:
+  ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii),
+  adapted in this skill as One Moment Each
+
+These remain the property of their originators. Anyone wanting the
+authoritative version should go to the sources above.
+
+All of the above are owned by their respective authors, carry their
+own licenses, and are cited as references. None are relicensed under
+Apache-2.0 by this NOTICE or by the repository LICENSE. The Apache-2.0
+grant above covers only the original writing, synthesis, and structure
+of this skill.
