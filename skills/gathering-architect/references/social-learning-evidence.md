@@ -18,7 +18,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Evidence Strength:** SOLID
 **Key Reference:** Albert Bandura, Social Learning Theory (1977)
-**Meta-Analysis Support:** Taylor et al. (2005) meta-analysis of behavior modeling training found significant gains in learning and job performance; meta-analysis of 34 studies on prosocial modeling showed positive effects on altruism and kindness.
+**Meta-Analysis Support:** Taylor et al. (2005) meta-analysis of behavior modeling training found significant gains in learning and job performance. Meta-analytic work on prosocial modeling also reports positive effects on altruism and kindness; we could not tie the study count sometimes quoted alongside it to a named review, so cite the direction rather than a number.
 
 **Practical Implication for Gatherings:** Design activities where participants actively observe competent modelers performing desired behaviors, then have time to practice with peer support. Clear consequences and motivation structures increase effectiveness.
 
@@ -100,7 +100,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 ### 2.1 Peer Tutoring: Effect Sizes
 
-**Key Finding:** Peer tutoring has an effect size of **d = 0.53-0.55** (Hattie, 2008)
+**Key Finding:** Peer tutoring has an effect size of **d = 0.53-0.55** in Hattie's synthesis
 
 **Context:**
 - Based on synthesis of 800+ meta-analyses relating to achievement
@@ -109,12 +109,12 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Evidence Strength:** SOLID
 **Key Reference:**
-- Hattie, J. (2008). Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement. International Review of Education, 57, 47-68
+- Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. (Cite the book. The journal listing that circulates for this, "International Review of Education, 57, 47-68," is a review *of* Hattie, not Hattie.)
 - Updated to 250+ influences, 1200+ meta-analyses in subsequent editions
 
 **Comparative Context:**
 - Peer tutoring (0.53-0.55) is more effective than average instruction
-- Scaffolding (0.82) is even more powerful
+- Scaffolding lands higher again, around d ≈ 0.8, though see §1.2 and §10.1 on why that decimal should be treated as approximate rather than settled
 - Cooperative learning shows even larger effects (see Section 2.2)
 
 **Practical Implication for Gatherings:** Create structured peer tutoring roles within cohorts. Train peer tutors. Recognize that 1:1 or small group peer teaching produces significant learning gains—this justifies investment in peer-led segments of programs.
@@ -149,7 +149,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Key Findings:**
 - **Effect Size on Exams:** d = 0.47 SD improvement
-- **Effect on Failure Rates:** Students in lecture were 1.95× more likely to fail than active learning students
+- **Effect on Failure Rates:** Freeman et al. report an odds ratio of 1.95 for failing under traditional lecturing compared with active learning. In plain risk terms that is roughly 1.5 times as likely to fail, and "about 1.5x" is the framing this skill uses everywhere else, because odds ratios get misread as risk ratios by almost every audience you will quote them to
 - **Practical Outcome:** ~6% improvement in average examination scores
 
 **Effectiveness Across Contexts:**
@@ -161,7 +161,6 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 **Evidence Strength:** SOLID
 **Key Reference:**
 - Freeman, S., Eddy, S. L., McDonough, M., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. PNAS, 111(23), 8410-8415.
-- 3,182 citations as of February 2023
 
 **Sample Size Notes:** One of the largest and most comprehensive meta-analyses of undergraduate STEM education published.
 
@@ -174,11 +173,8 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 **The Method:** Students answer questions with discrete options twice—first individually, then after peer discussion.
 
 **Key Findings:**
-- **Poll-to-Poll Improvement:** Students move from ~50% correct on initial poll to 80-90% correct after peer discussion
-- **Effect of Peer Discussion:** Nearly 2× greater improvement than private reflection alone
-  - Minimal increase with distraction condition: 3%
-  - Reflection alone: 10%
-  - Peer discussion condition: 21%
+- **Poll-to-Poll Improvement:** correct answers rise substantially between the first poll and the re-poll after peer discussion
+- **Effect of Peer Discussion:** discussing with a neighbour improves the re-poll markedly more than sitting and thinking about it alone does. The specific percentage-point splits that circulate for this comparison are not traceable to a named study in our checking, so make the comparative claim and leave the decimals out
 
 **Knowledge Gains:** Interactive learning triples students' gains on conceptual tests compared to passive lecture
 
@@ -241,7 +237,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Key Benefits Reported:**
 - Increased sense of connection to program and peers
-- Fostered collaborative and welcoming classroom environment
+- A collaborative, welcoming classroom environment
 - Supports development of critical thinking skills
 - Greater learning experiences overall
 - Enhanced ability to work in variety of community contexts
@@ -300,7 +296,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Evidence Strength:** SOLID
 **Key Reference:**
-- Edmondson, A. C. (1999). Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, 44(4), 350-383.
+- Edmondson, A. C. (1999). Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, 44(2), 350-383.
 
 **Mechanisms Identified:**
 - Context support (physical, psychological resources)
@@ -337,19 +333,12 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 ### 5.1 Optimal Group Size: Research Evidence
 
-**Small Group Effectiveness: Meta-Analysis (1996)**
-- **Finding:** Optimal learning occurs in groups with **less than 5 students**
-- **Recommendation Range:** 3-5 people for maximum interaction
-- **Empirical Average:** 4.5-5.8 learners reported across 36 papers
-- **Clear Breakpoint:** Instruction equally effective one-on-one or in groups of 3, but sharply less effective at groups of 10+
-- **Strong Guidance:** Avoid groups of 8-10 or larger
+**What the research supports:** small groups outperform large ones for learning, and the advantage sits at the low end of "small". The standard reference is Lou, Abrami and colleagues' within-class grouping meta-analysis, which found smaller groups (around three to four) more effective than larger ones.
 
-**Task-Dependent Sizing:**
-- **Math/science problem-solving:** Keep at ~3 people
-- **Brainstorming/diverse perspectives:** 4-6 people
+**What is practitioner guidance, not a measured threshold:** the specific numbers facilitators pass around, that groups should be under five, that effectiveness falls off a cliff somewhere around eight to ten, that maths problems want three people and brainstorming wants four to six. These are sensible working defaults and they match the direction of the research, but do not present them to a stakeholder as findings with a study behind them, because the precise breakpoints are not established that way.
 
-**Evidence Strength:** SOLID
-**Key Reference:** Meta-analysis of small group learning effectiveness across education research
+**Evidence Strength:** SOLID on the direction (smaller is better for learning-focused work), SOFT on any exact cut-off.
+**Key Reference:** Lou, Y., Abrami, P. C., Spence, J. C., Poulsen, C., Chambers, B., & d'Apollonia, S. (1996). Within-class grouping: A meta-analysis. *Review of Educational Research*, 66(4), 423-458.
 
 **Practical Implication for Gatherings:** Design core learning groups at 4-5 people. Break plenary sessions with 30+ people into triads for thinking and pair-shares for initial discussion, before returning to large group.
 
@@ -361,9 +350,8 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Key Thresholds:**
 - **5 people:** Intimate relationships; maximum core group
-- **5-15 people:** Small cohort; feels safe for sharing new ideas
-- **~40 people:** Upper limit for strong camaraderie and democracy
-- **50 people:** Large cohort with diversity; research baseline
+- **15 people:** The sympathy group; small cohort, feels safe for sharing new ideas
+- **50 people:** The layer above that; about as large as a group gets while still feeling like one group with strong camaraderie
 - **150 people:** Maximum for stable social communities
 - **All groups above 150:** Require hierarchical structure
 
@@ -379,7 +367,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **Practical Implication for Gatherings:** Use Dunbar's numbers as design scaffolding:
 - **Core peer groups:** 3-5 people
-- **Learning cohorts:** 15-40 people (if strong camaraderie is goal)
+- **Learning cohorts:** 15-50 people (if strong camaraderie is goal)
 - **Learning communities:** 50-150 people
 - **Larger networks:** Require substructure and explicit leadership
 
@@ -389,7 +377,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 ### 6.1 Think-Pair-Share: Effectiveness Research
 
-**The Method:** Individuals think → pair with partner → share in larger group
+**The Method:** Individuals think → pair with partner → share in larger group. Developed by Frank Lyman in 1981; this skill's Think, Pair, Room in `facilitation-methods.md` is an adaptation of it, credited there and in NOTICE.
 
 **Key Findings on Participation:**
 - Increased overall student participation and discussion quality
@@ -411,11 +399,12 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 - Whole-class sharing doesn't capture full diversity of ideas from pairs
 - **Alternative:** Local sharing among small groups ensures more students participate without stress of whole-class presentation
 
-**Evidence Strength:** SOLID
+**Evidence Strength:** SOLID on the direction, and note that the references below are a body of work rather than named papers.
 **Key References:**
-- Meta-analyses from 1990s through 2020s validating think-pair-share efficacy
+- Lyman, F. (1981), who developed the format
+- Meta-analyses from the 1990s onwards validating think-pair-share efficacy
 - Studies in STEM education, medical education, and general classrooms
-- Recent modifications documented in literature 2010-2024
+- Recent modifications documented in the literature from 2010 onwards
 
 **Practical Implication for Gatherings:** Think-pair-share is evidence-backed for both learning AND inclusion. Use it especially with introverts. Consider local sharing (pairs + adjacent groups) vs. whole-class sharing for better coverage and less anxiety.
 
@@ -440,7 +429,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
   - Longer student responses
   - More student-to-student commenting
 
-**Psychological Mechanism:** Wait time creates "essential temporal space for thinking and reflection"
+**Psychological Mechanism:** the silence is the thinking time. Without it, the only people who answer are the ones whose answer was already formed, which is a much smaller and much less interesting group than the room contains.
 
 **Evidence Strength:** SOLID
 **Key References:**
@@ -448,7 +437,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 - Multiple studies from 1970s-2020s confirming effects
 - Simulation-based education research showing intentional silence improves debriefing insights
 
-**Critical Insight:** "For group work to result in learning, there must be time for reflection. Discussion stimulates thought but is also stimulated by thought. A noisy classroom can be the worst place to think."
+**Critical Insight:** group work only turns into learning if there is time to reflect inside it. Discussion feeds thinking and is fed by it, which means a room that is never quiet can be a genuinely difficult place to think.
 
 **Practical Implication for Gatherings:** Build silence into the rhythm of group discussions. Train facilitators to pause after questions. The discomfort of silence is where learning happens. Silence before group discussion is a design feature, not a failure.
 
@@ -481,11 +470,8 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 - Provides inclusion pathway for introverted learners
 - Produces more constructive dialogue overall
 
-**Evidence Strength:** SOLID
-**Key References:**
-- Mixed-methods research on collaborative learning and personality
-- PMC and ERIC databases contain recent peer-reviewed studies
-- Medical education research on barriers and supports for different personality types
+**Evidence Strength:** SOFT. This section is the weakest-sourced in the file and is marked that way on purpose. The behavioural patterns described are consistent with mixed-methods work on collaborative learning and personality, and with medical-education research on how different personality types fare in group settings, but we cannot point you at a specific named study for any single claim above. "The literature databases contain studies on this" is not a citation and is not treated as one here.
+**Key References:** none we can name with confidence. If you need to make this argument to a stakeholder, find and read a specific paper first, or make the design case on its merits instead: the structures recommended below stand up perfectly well as good practice without a citation behind them.
 
 **Practical Implication for Gatherings:** Introvert-extrovert mixing is natural in cohorts but requires design accommodation. Use think-pair-share (written then pair before group discussion) to balance participation. Structure smaller subgroups before full cohort discussion. Don't assume extrovert-style rapid-fire discussion is the goal—constructive, thoughtful dialogue comes from slower group compositions and structures.
 
@@ -497,15 +483,10 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 **The Cycle:** Concrete Experience → Reflective Observation → Abstract Conceptualization → Active Experimentation
 
-**Meta-Analysis Evidence:**
-- 81 studies implementing experiential learning:
-  - 61.7% supported it
-  - 16.1% mixed support
-  - 22.2% did not support it
-- Learning Styles Inventory (49 studies with strong support, 40 mixed, 12 no support)
+**Meta-Analysis Evidence:** reviews of the experiential-learning literature find that most studies support the cycle, a minority report mixed results, and a meaningful minority do not support it. We have seen precise study-count splits quoted for this (a specific number of studies divided into supporting, mixed and non-supporting percentages) but could not trace them to a named review, so they are not repeated here. Make the shape of the finding, which is real: broadly supportive, with genuine dissent.
 
 **Implementation Challenge:**
-- Only 9 of 30 reviewed articles fully implemented the cycle
+- Reviewers repeatedly note that only a minority of studies implemented the full cycle rather than a piece of it
 - Full cycle implementation is challenging in practice
 - Mixed results often reflect incomplete implementation
 
@@ -639,11 +620,8 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 - Team- and project-based physics classes can eliminate gender gap in self-efficacy
 - However, self-efficacy gaps sometimes continue throughout course regardless of format
 
-**Evidence Strength:** SOLID
-**Key References:**
-- Physical Review: Physics Education Research journals
-- Harvard Gender Action Portal research
-- Education research meta-analyses on gender and active learning
+**Evidence Strength:** SOFT-SOLID. The general finding that active and interactive formats do not automatically close gender gaps is well supported in physics education research. The specific pairing findings above are reported in that literature but we cannot attach a named study to each one, so treat them as directional.
+**Key References:** the relevant work lives mainly in *Physical Review Physics Education Research* and in the Harvard Gender Action Portal's summaries. Naming a body of literature is not the same as citing a paper, so look up the specific study before you put a claim from this section in front of a sceptical audience.
 
 **Practical Implication for Gatherings:** Consider gender dynamics in group formation, especially for technical content. Same-gender pairing for initial learning can be supportive for underrepresented groups. However, peer instruction pedagogy (not just any group work) is effective for gender-balanced learning. Don't assume that simple mixing resolves gender disparities—structure and pedagogy matter.
 
@@ -700,15 +678,15 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 1. **Start with Psychological Safety:** It's the #1 factor in team effectiveness (Google) and prerequisite to learning behavior (Edmondson). Design for this first.
 
-2. **Use Scaffolding Intentionally:** d = 0.82 means structured support is one of the highest-impact interventions. Fade support as competence increases.
+2. **Use Scaffolding Intentionally:** structured support is one of the highest-impact interventions available, landing around d ≈ 0.8 in Hattie's synthesis. Quote it as a rough magnitude rather than a precise coefficient (§10.1). Fade support as competence increases.
 
 3. **Keep Core Groups at 4-5 People:** Meta-analysis evidence is clear; this is the optimal size for interaction and learning.
 
 4. **Include Think-Pair-Share & Wait Time:** These are simple, evidence-backed strategies for inclusion and deeper thinking. Build silence into rhythm.
 
-5. **Use Peer Discussion, Not Just Reflection:** Peer instruction shows peer discussion (21% improvement) beats private reflection (10%) 2:1. Dialogue matters.
+5. **Use Peer Discussion, Not Just Reflection:** in peer instruction, letting people talk to a neighbour before the re-poll beats letting them think alone by a wide margin. Dialogue matters. Make the comparative claim rather than quoting percentage splits (see §2.4).
 
-6. **Design for Full Experiential Cycles:** Partial use of Kolb's cycle is weak (22% no effect); full cycles are strong. Include concrete experience, reflection, conceptualization, and application.
+6. **Design for Full Experiential Cycles:** partial use of Kolb's cycle produces weak and inconsistent results; full cycles do much better. Include concrete experience, reflection, conceptualization, and application.
 
 7. **Use Cohort Structure for Follow-Through:** Social accountability and a shared pace meaningfully improve completion versus unsupported self-paced learning. State this as a directional mechanism; don't quote the unsourced "90% vs. 3–15%" ratio (see §3.1).
 
@@ -732,7 +710,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 ### Key Meta-Analyses & Research
 
-- Edmondson, A. C. (1999). Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, 44(4), 350-383.
+- Edmondson, A. C. (1999). Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, 44(2), 350-383.
 - Freeman, S., Eddy, S. L., McDonough, M., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. PNAS, 111(23), 8410-8415.
 - Hattie, J. (2009). Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement. Routledge. (Note: the book; "International Review of Education, 57, 47–68" is a *review of* Hattie, not the source itself — don't conflate them.)
 - Johnson, D. W., Johnson, R. T., & Stanne, M. B. (2000). Cooperative learning methods: A meta-analysis. University of Minnesota.

@@ -2,6 +2,86 @@
 
 All notable changes to the Gathering Architect skill are recorded here. This skill is licensed under the [Apache License, Version 2.0](../../LICENSE).
 
+## 3.5.0
+
+**Attribution and evidence hygiene.**
+
+A second independent audit of the 3.4.0 release found four attribution
+problems it treated as blocking, plus a longer list of weak citations,
+inconsistent numbers and stale cross-references. This release fixes all of
+them. Nothing new was added to the skill; several things were removed.
+
+- **Both/And Statements is no longer claimed as an original design.** Its
+  drafting instrument, a fill-in-the-blank paradox stem used to generate
+  several statements and then narrow, is close kin to Wicked Questions in
+  Liberating Structures, and the both/and framing of a tension where
+  neither side can be allowed to lose comes from Barry Johnson's polarity
+  work (1992). Both are now credited in the method's Source line and in
+  NOTICE, whose Section B gains an eleventh entry. The count of originals
+  under "Rapid Participation Methods" drops from six to five in the file's
+  own introduction and in NOTICE, and the sentence claiming that nothing
+  in that section drew on Liberating Structures has been corrected rather
+  than quietly softened.
+- **The GV Design Sprint section is cut to identification level.** The
+  day-by-day structure, the roles, the sketching sequence and its timings,
+  the interview format, the named prototype principle and GV's own quoted
+  copy are gone. What remains is what a design sprint is, who made it,
+  where to read it, and this skill's own guidance on whether a sprint
+  shape fits the event you are hosting and what to settle before
+  committing to one.
+- **Jenny Sauer-Klein's Scaling Intimacy is cut to identification level.**
+  Seven named components and an unattributed quote are replaced by her
+  name, her link, and the skill's own prose on connection in large rooms.
+  The section heading no longer borrows her framework's name.
+- **A fabricated statistic is deleted.** A precise multiplier claiming how
+  much more trusted facilitators are when they show vulnerability appeared
+  twice in `facilitator-pain-points.md` and traces to no source at all.
+  The number is gone from the repository entirely, including from this
+  entry, so it cannot be quoted back out of the changelog. Both passages
+  now make the point qualitatively.
+- **The MLH Organizer Guide is credited rather than restated.** The
+  six-phase planning calendar and the judging procedure are replaced with
+  our own ordering guidance and our own account of the decisions judging
+  actually turns on. The judge-count arithmetic stays, credited to the
+  guide.
+- **Three community frameworks cut to the treatment already used for
+  Vogl:** the CMX SPACES pillars, the FeverBee lifecycle stages, and the
+  Get Together elements with their quoted principle. The implementation
+  checklist no longer tags each item with the framework it came from, so
+  it stands as our own, and the conclusion's framework count now matches
+  its own list.
+- **Seven quoted strings were checked against the sources cited for
+  them.** Two turned out to be close paraphrases of real sentences and are
+  now attributed properly, to SessionLab and to Lee Matthew Jackson
+  writing for Event Engine. Five could not be traced to any source and
+  have been rewritten as our own prose.
+- **Evidence corrections.** Edmondson's 1999 paper is ASQ 44(2), not
+  44(4). Hattie is cited as the 2009 book throughout rather than as the
+  journal review of it. Scaffolding's effect size is stated as an
+  approximate magnitude everywhere instead of as a firm 0.82 in some
+  places and a caution in others. Freeman's 1.95 is identified as an odds
+  ratio, with the roughly 1.5x risk framing used consistently elsewhere.
+  Unsourced study-count splits in the Bandura, peer-instruction and Kolb
+  sections are qualitative now. The group-size section names Lou, Abrami
+  and colleagues (1996) for what that meta-analysis supports and marks the
+  specific breakpoints as practitioner guidance. Two sections that rated
+  themselves SOLID on the strength of "the databases contain studies" are
+  downgraded honestly. The "~40 people" Dunbar layer, which is not one of
+  his layers, is now 50.
+- **Smaller fixes.** Mad Tea is named and linked as a Liberating
+  Structures microstructure instead of being described by mechanic. What,
+  So What, Now What is credited to Borton and to Rolfe and colleagues. The
+  preparation claim is one qualitative formulation rather than 80% in one
+  file and 90% in another. Open Space is mid-1980s in both files and the
+  unsourced country count is gone. Two truths and a lie is no longer
+  recommended in one file while serving as the cautionary example in
+  another. The "10-20-30 principle" is renamed so it stops colliding with
+  Kawasaki's rule. Frank Lyman is named in the think-pair-share evidence
+  section. A stale pointer in the constraints section now points at the
+  right file and at methods that exist. Priya Parker and Andrew Chen,
+  whose terms the skill uses by name, are added to the NOTICE ledger
+  alongside the community frameworks that were already named and linked.
+
 ## 3.4.0
 
 **Independent redesigns replacing derivative facilitation material.**

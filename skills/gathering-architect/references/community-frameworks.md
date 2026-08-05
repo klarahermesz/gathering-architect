@@ -144,17 +144,12 @@ This skill's own fast-validation tool, `assets/community-quick-read.md`, lives i
 
 ### FRAMEWORK 6: CMX SPACES MODEL
 
-**Source:** https://www.cmxhub.com
+**Source:** https://www.cmxhub.com/blog/the-spaces-model
 **Developer:** David Spinks, CMX (Community Marketing Exchange)
+**Status:** CMX's own model, published on their site
 **Focus:** Business value and alignment
 
-**The Six Pillars:**
-1. **Support** - Members help solve problems (reduce support costs)
-2. **Product** - Members provide feedback and ideas
-3. **Acquisition** - Community attracts and converts new customers
-4. **Content** - Members create valuable user-generated content
-5. **Engagement** - Community increases retention and loyalty
-6. **Success** - Community enables customer success
+SPACES is a way of naming which kind of business value a community is actually being asked to deliver, so that the answer becomes a deliberate choice rather than a thing everyone assumed differently. It is the framework to reach for when a community needs to justify its existence to people who hold a budget. Its named pillars are the substance of the model and they are CMX's; read them there.
 
 **Use When:** Need to justify community investment, align with business goals
 
@@ -176,14 +171,10 @@ Vogl's work is about belonging rather than logistics: what makes someone feel th
 
 **Source:** https://www.feverbee.com
 **Developer:** Richard Millington
+**Status:** FeverBee's own model, published on their site
 **Focus:** Understanding growth patterns
 
-**The Four/Five Stages:**
-1. **Inception** (0-3 months) - Reaching critical mass
-2. **Establishment** (3-9 months) - Building culture
-3. **Maturity** - Plateauing engagement
-4. **[Optional] Saturation** - Addressing limits
-5. **Mitosis** - Community division into sub-communities
+Millington's lifecycle work describes a community as moving through recognisable phases, each of which asks something different from whoever is running it. Its usefulness is in explaining why the thing that worked last quarter has stopped working, which is otherwise one of the more demoralising experiences in community building. The stage names and their definitions are his; read them at FeverBee.
 
 **Use When:** Understanding where in growth cycle, planning for transitions
 
@@ -192,15 +183,11 @@ Vogl's work is about belonging rather than logistics: what makes someone feel th
 ### FRAMEWORK 9: GET TOGETHER / PEOPLE & COMPANY
 
 **Source:** https://gettogether.world
-**Developers:** Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
-**Focus:** Member-centered co-creation
+**Authors:** Bailey Richardson, Kevin Huynh and Kai Elmer Sotto (People & Company)
+**Book:** *Get Together: How to Build a Community With Your People* (2019)
+**Status:** Copyrighted book content, not openly licensed
 
-**The Three Elements:**
-1. **Shared Activities** - Purposeful, participatory, repeatable
-2. **Community Rituals** - Repeated practices that strengthen bonds
-3. **Community Purpose** - Clear articulation of why community exists
-
-**Core Principle:** "Build your community WITH people, not FOR them"
+Get Together argues for building a community alongside the people in it rather than on their behalf, and it makes the argument mostly through stories of people who did exactly that. It is the one to hand someone who is trying to run a community single-handed and cannot work out why it keeps needing them. The elements it names and its wording are the authors' own, and the book is short enough to read whole.
 
 **Use When:** Emphasizing member participation and co-creation
 
@@ -290,28 +277,28 @@ Vogl's work is about belonging rather than logistics: what makes someone feel th
 
 Use this checklist to ensure you're covering the essential elements of good community design:
 
-- [ ] **Vision & Purpose** - Clear, compelling, articulated (Canvas/Weaving/Vogl)
-- [ ] **Member Profile** - Clear definition of who this is for (Canvas)
-- [ ] **Values & Principles** - What guides the community (Canvas/Vogl)
-- [ ] **Shared Activities** - What brings people together regularly (Canvas/Get Together)
-- [ ] **Rituals & Traditions** - Repeated practices with meaning (Canvas/Vogl/Weaving)
-- [ ] **Roles & Participation** - Multiple pathways visible (Canvas/Weaving/Vogl)
-- [ ] **Governance** - Clear decision-making processes (Canvas/JRC)
-- [ ] **Leadership** - Distributed, with succession planning (Canvas/JRC/Wenger)
-- [ ] **Communication** - Regular rhythm and multiple channels (Canvas/JRC)
-- [ ] **Knowledge Management** - Capturing and sharing practice (Wenger)
-- [ ] **Relationships & Connections** - Intentionally strengthened (Weaving)
-- [ ] **Member Experience** - Welcoming, accessible, inclusive (JRC/Vogl)
-- [ ] **Measurement** - Tracking health and impact (JRC/CMX)
-- [ ] **Sustainability** - Financial model and resource plan (Canvas)
-- [ ] **Belonging** - Deep sense of community (Vogl)
-- [ ] **Maturity Assessment** - Understanding where we are (Tacit)
+- [ ] **Vision & Purpose** - Clear, compelling, articulated
+- [ ] **Member Profile** - Clear definition of who this is for
+- [ ] **Values & Principles** - What guides the community
+- [ ] **Shared Activities** - What brings people together regularly
+- [ ] **Rituals & Traditions** - Repeated practices with meaning
+- [ ] **Roles & Participation** - Multiple pathways visible
+- [ ] **Governance** - Clear decision-making processes
+- [ ] **Leadership** - Distributed, with succession planning
+- [ ] **Communication** - Regular rhythm and multiple channels
+- [ ] **Knowledge Management** - Capturing and sharing practice
+- [ ] **Relationships & Connections** - Intentionally strengthened
+- [ ] **Member Experience** - Welcoming, accessible, inclusive
+- [ ] **Measurement** - Tracking health and impact
+- [ ] **Sustainability** - Financial model and resource plan
+- [ ] **Belonging** - Deep sense of community
+- [ ] **Maturity Assessment** - Understanding where we are
 
 ---
 
 ## CONCLUSION
 
-Reference notes on nine external community design frameworks, each named and linked rather than reproduced. In brief:
+Reference notes on ten external community design tools, each named and linked rather than reproduced. In brief:
 
 - **Community Canvas:** Holistic structure
 - **Community Weaving:** Relational depth

@@ -59,7 +59,7 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 
 **The Fix:**
 - Use the MoSCoW method (Must have, Should have, Could have, Won't have) to trim ruthlessly
-- Apply the 10-20-30 principle: 10 minutes content delivery, 20 minutes practice, 30 minutes feedback/reflection
+- Budget a content-practice-reflection split rather than a content block: something like 10 minutes of delivery, 20 of practice, 30 of feedback and reflection
 - Keep presentations to 20 minutes maximum
 - Have a "kill list"—activities you're willing to cut if running over
 - Practice with realistic timing, not optimistic timing
@@ -85,9 +85,9 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 
 **The Mistake:** Facilitators move abruptly between activities without preparing participants emotionally or mentally. High-energy discussion suddenly shifts to quiet reflection without a bridge. A deep vulnerability exercise immediately precedes logistics. Energy crashes without recovery time.
 
-**Why It Fails:** Transitions are not fillers—they're integral to the learning experience. Abrupt transitions create disorientation and disengagement (the DJ analogy: seamless transitions keep audiences engaged; abrupt stops kill momentum).
+**Why It Fails:** Transitions are not filler, they are part of the learning experience. Abrupt ones leave people disoriented and disengaged, the way two songs cut hard against each other will empty a dance floor that a smooth handover would have kept.
 
-**What Experts Say:** Transitions should be "purposeful and specific to what follows" and should "emotionally prepare participants for the next activity." A good transition might be an energizer, a reflective exercise, movement, or a change of pace.
+**Worth Reading:** SessionLab's write-up on workshop transitions puts it well: a transition should be built for whatever is coming next, and its job is to get people into the right frame of mind for it rather than to fill a gap (https://www.sessionlab.com/blog/workshop-transitions/). A good one might be an energizer, a reflective exercise, movement, or a change of pace.
 
 **The Fix:**
 - Treat transitions as purposeful, not as gaps to fill
@@ -171,8 +171,8 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 
 **Effective Closure Techniques:**
 1. **One Word Checkout** - Participants distill their experience into one word, creating shared reflection
-2. **What-So What-Now What** - Structured framework: What happened? Why does it matter? What will we do about it?
-3. **Mad Tea** - Concentric circles where participants exchange deep reflections in rotating pairs
+2. **What, So What, Now What** - A long-established reflective sequence, first set out by Terry Borton in 1970 and later developed by Rolfe, Freshwater and Jasper: what happened, why it matters, what we do next
+3. **Mad Tea** - A closing microstructure published in the Liberating Structures collection, https://www.liberatingstructures.com (CC BY-NC 4.0, non-commercial use only). Read it there
 4. **Commitment Articulation** - Participants express their intentions aloud or to accountability partners
 5. **Gratitude & Celebration** - Group appreciation exercises that create sense of completion and community
 
@@ -186,13 +186,13 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 
 ---
 
-#### 10. Poor Preparation and the "90% Happens Before" Principle
+#### 10. Poor Preparation and the "Most of It Happens Before" Principle
 
 **The Mistake:** Facilitators wing it. They don't interview clients about true needs. They don't test their activities. They don't prepare materials in advance. They show up and hope it works.
 
 **Why It Fails:** Facilitation that feels like "effortless magic" actually results from backstage work, foresight, and careful planning. When preparation is skipped, sessions feel chaotic, activities fail, timing derails, and facilitators panic.
 
-**What Experts Say:** The research consistently shows that 90% of a workshop's success happens before the workshop begins. Success depends on:
+**What Experienced Facilitators Say:** most of what decides a workshop is settled before anyone walks in. It is not a measured proportion and nobody should quote one, but the pattern is close to unanimous among people who run sessions for a living. Success depends on:
 - Client interviews to clarify true needs
 - Clear vision and design iteration
 - Detailed agendas with timing for each block
@@ -254,7 +254,7 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 **The Fix:**
 - Start with lower-risk activities (individual reflection, pair shares)
 - Move to higher-vulnerability activities only after safety is established
-- Model vulnerability first (facilitators are 5.3x more trusted when they show vulnerability)
+- Model vulnerability first, so the room can see the level of exposure you are actually asking for before anyone is asked to match it
 - Create ground rules around confidentiality and respect
 - Use structured sharing (round-robin, talking stick) to equalize participation
 - Ask permission: "Is it okay if we go deeper here?"
@@ -407,7 +407,7 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
    - Ask: "What would serve your cultural context better?"
    - Learn and adjust
 
-**What Experts Say:** Cross-cultural communication success requires "mutual respect, openness, positive intentions, and willingness to learn about another's cultural background and communication norms."
+**The Short Version:** what makes cross-cultural facilitation go well is not technique. It is respect, a real openness to being wrong about someone, and the willingness to learn how the other person's context handles directness, disagreement and silence. The sources at the end of this file are worth reading in full on this.
 
 ---
 
@@ -472,7 +472,7 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
    - Check in personally with participants
    - Acknowledge difficulty of virtual setting
 
-**What Experts Say:** The irony of virtual events: "Meaningful connections require more deliberate design than in physical events, yet this intentionality can produce more meaningful connections than haphazard in-person encounters."
+**Worth Knowing:** Lee Matthew Jackson, writing on serendipity in online events for Event Engine, makes the point that digital connection has to be designed far more deliberately than the physical kind, and that the deliberateness is exactly why it can end up producing better connections than the accidents of a room do (https://eventengine.tv/creating-serendipity-in-online-events/).
 
 ---
 
@@ -522,73 +522,33 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
    - Relationship-building is harder
    - Conflict is easier (less accountability in virtual space)
 
-**What Experts Say:** "The hybrid element of virtual meetings can actually drive people apart, with virtual attendees feeling excluded when there's a large in-person group. Virtual attendees can feel like they are watching a meeting instead of being part of it."
+**The Failure Mode:** hybrid can push a group apart rather than hold it together. When the in-person side is large, the people on screen slide quietly into an audience, watching a meeting instead of being in one. The reason it goes unfixed is that from inside the room it feels fine.
 
 **Pro Tip:** If you can't manage true hybrid equity, it's sometimes better to go fully remote than to create second-class participants.
 
 ---
 
-#### Challenge 6: Scaling Intimacy in Large Groups (50+, 100+, 500+)
+#### Challenge 6: Building Connection in Large Groups (50+, 100+, 500+)
 
 **The Problem:** How do you create the feeling of community and connection in a group of 100 people? Gatherings at scale often feel impersonal, fragmented, and lonely even while crowded.
 
 **Why It's Hard:** Dunbar's number (about 150) is the cognitive limit for stable relationships. You can't know 500 people. So how do you create belonging?
 
-**Advanced Strategies:**
+**Worth reading:** Jenny Sauer-Klein teaches experience design for exactly this problem under the name Scaling Intimacy, and if large-group connection is your recurring headache her training is the place to go for it: https://www.jennysauerklein.com. Her material is hers, and it is not restated here.
 
-**The Scaling Intimacy Methodology** (developed by Jenny Sauer-Klein)
+**What we would do:**
 
-The core insight: **Make 100 people feel like a community of 10** through intentional design of connection architecture.
+The move that changes a big room is giving people a smaller room to belong to. Put everyone in a standing unit of a size they can actually hold in their head, give that unit a name and someone who knows who is in it, and the hundred stops being a hundred. People will tell you afterwards that the day felt intimate, and what they are describing is the table, not the hall.
 
-1. **Micro-Communities**
-   - Design smaller groups within the larger structure (like neighborhoods in a city)
-   - Typically 5-150 members (Dunbar's number)
-   - Create identity for subgroups: "You're the blue table," "You're the morning cohort"
-   - Have subgroup facilitators who know their people
-   - Rotate people through different micro-communities
+Do the thinking work at the size the thinking needs. A room of two hundred can still run pairs, triads and table conversations, and Think, Pair, Room in `facilitation-methods.md` scales further than most facilitators expect. What does not scale is the whole-group discussion, so stop asking a large room to have one.
 
-2. **Physical Proximity and Attention**
-   - Large groups feel impersonal when spreads out
-   - Invite people to "bunch in" around you; lower your voice (creates intimacy)
-   - Use wireless microphones for 75+ (so you don't have to shout)
-   - Arrange seating to maximize connection, not rows of chairs
-   - Use intimate stage design (bring people close to speakers/facilitators)
+Design the informal time rather than announcing it. "Mingle" is not an instruction, it is a hope, and it reliably sends people back to whoever they arrived with. Assign the tables, give the conversation a prompt worth answering, and mix the groupings across the day so people meet more than their first three neighbours.
 
-3. **Small Group Activities at Scale**
-   - 100-person think-pair-share (everyone gets to talk in pairs)
-   - Think, Pair, Room: individual → pair → whole group
-   - Breakout rooms for larger group work
-   - Table-based discussions with trained table facilitators
-   - Rotation activities (people move between stations/tables)
+Offer more than one depth of participation. In any large room some people want a real conversation and some want three light ones, and both are legitimate ways to spend a day. Build activities at different levels of exposure and let people choose rather than sorting everyone into the same vulnerability.
 
-4. **Structured Connection Time**
-   - Design specific moments for informal connection (not just "mingle")
-   - Use intentional mixing: assign people to tables, pair remote with in-room
-   - Provide conversation prompts (not just "get to know each other")
-   - Create "serendipity by design": intentional random pairings
-   - Weak ties are valuable (acquaintances introduce you to novel information)
+Watch your own energy, because in a large room it is public. Fatigue is visible from the back and it spreads. Share the front with a co-facilitator, take real breaks rather than working through them, and lean on methods that put the work in the room instead of on you.
 
-5. **Multiple Entry Points**
-   - Offer activities at different vulnerability/energy levels
-   - Some people want deep conversation; some want surface connection
-   - Provide both
-   - Let people choose their participation depth
-
-6. **Facilitator Energy Management**
-   - Fatigue is visible and contagious
-   - Manage your own energy carefully
-   - Use co-facilitators so energy is distributed
-   - Take real breaks
-   - Use rapid participation methods (they save facilitator energy)
-
-7. **Pre-Event Connection**
-   - Begin building community before the event
-   - Send pre-work that primes connection
-   - Create buddy pairings or small groups before event
-   - Have community platform where people can connect pre-event
-   - This reduces the "cold start" at the event itself
-
-**What Experts Say:** "Scaling intimacy is possible, but it requires treating connection architecture as seriously as you treat session content. Default is isolation; connection requires design."
+Start before the day starts. A group that has already exchanged something, a question, an introduction, a pairing, arrives warm. The cold start is the expensive part of any large gathering, and most of it can be paid down in advance.
 
 ---
 
@@ -598,11 +558,11 @@ The core insight: **Make 100 people feel like a community of 10** through intent
 
 ### The Invisible Architecture That Makes Gatherings Work
 
-#### 1. The "90% Happens Before" Principle
+#### 1. The "Most of It Happens Before" Principle
 
 **The Insight:** The quality of a gathering is determined far more by what happens *before* it starts than what happens during it.
 
-**Why This Matters:** Facilitators often focus all energy on session design and delivery. But research consistently shows that success depends on:
+**Why This Matters:** Facilitators often focus all energy on session design and delivery. But the preparation is where most of the outcome gets decided:
 - Client interviews and needs clarification (not assumptions)
 - Invitation wording and design
 - Pre-work and preparation
@@ -612,7 +572,7 @@ The core insight: **Make 100 people feel like a community of 10** through intent
 
 **The Evidence:** In community building, David Spinks found that seeding quality content and conversations *before* opening to many people determined the entire culture. New members who arrived saw thoughtful questions and quality answers, and they replicated that standard.
 
-In workshops, facilitators who spent 4 hours on preparation reported better outcomes than those who spent 1 hour, despite the same session length.
+In workshops, the reported pattern is the same: the sessions that land are the ones where someone spent real hours on the design beforehand, not the ones with a longer slot on the day. Treat that as practitioner experience rather than a measured finding.
 
 **The Practice:**
 
@@ -659,7 +619,7 @@ In workshops, facilitators who spent 4 hours on preparation reported better outc
 
 **The Evidence:** Design thinking uses constraints intentionally (time-boxed sprints, limited materials). Jazz improvisation uses the constraint of harmonic structure to produce creativity.
 
-**This is the whole logic behind this file's rapid participation methods:** a tight constraint (one merged idea, one step back, one rule survives) does more for a room than open-ended freedom does.
+**This is the whole logic behind the rapid participation methods in `facilitation-methods.md`:** a tight constraint (one merged idea per pair in Think, Pair, Room; one appointment left standing after the cross-out in Monday 9am; four agreements and not a fifth in What Happens When) does more for a room than open-ended freedom does.
 
 **The Practice:**
 
@@ -698,7 +658,7 @@ In workshops, facilitators who spent 4 hours on preparation reported better outc
 
 **Why This Matters:** Transitions are not fillers or dead time. They're where you shift emotional state, prepare minds, and maintain momentum. Abrupt transitions feel chaotic; smooth transitions feel elegant.
 
-**The DJ Analogy:** Seamless transitions between songs keep audiences engaged and dancing. Abrupt stops kill momentum and create awkwardness.
+**The DJ Analogy:** a good DJ carries the room across the join between two songs and nobody stops dancing. A hard cut empties the floor and leaves everyone looking around.
 
 **The Practice:**
 
@@ -741,7 +701,7 @@ In workshops, facilitators who spent 4 hours on preparation reported better outc
 
 **Why This Matters:** People form relationships through serendipitous encounters, casual conversations, and unexpected connections. Event designers often hope this happens naturally. It doesn't. You have to design for it.
 
-**The Irony:** Digital serendipity requires *more* deliberate design than physical events, yet this intentionality can produce *more* meaningful connections than haphazard in-person encounters.
+**The Irony:** online connection has to be designed on purpose in a way the physical kind does not, and the designing is exactly why it can end up better than the accidental version. Lee Matthew Jackson makes this case at Event Engine, linked in the Sources.
 
 **The Research:** Novel information typically flows through weak ties (acquaintances) not strong ties (close friends). So designing for weak-tie formation is actually designing for maximum learning.
 
@@ -842,7 +802,7 @@ In workshops, facilitators who spent 4 hours on preparation reported better outc
 **The Practice:**
 
 1. **Facilitator Modeling**
-   - Show vulnerability first (facilitators 5.3x more trusted when vulnerable)
+   - Show vulnerability first; a facilitator who names their own uncertainty gives everyone else permission to
    - Acknowledge your own mistakes and learning
    - Share genuine uncertainty (not fake)
    - Model the behavior you want
@@ -1049,6 +1009,8 @@ Community-market fit = finding a product/experience that fits the community you'
 ---
 
 #### Pitfall 5: The Cold Start Problem (Network Effects Paradox)
+
+The cold start problem and the atomic network are Andrew Chen's terms, set out in his book *The Cold Start Problem* (andrewchen.com). We use his names for them because they are the names the field uses. The practice guidance below is our own.
 
 **The Problem:** A network has no value until the network exists. A messaging app with no friends is useless. A marketplace with no sellers is dead on arrival. A forum with no content is a ghost town.
 

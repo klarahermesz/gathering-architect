@@ -14,7 +14,7 @@ Reference for designing and running intensive collaborative events that bring pe
 
 1. [Hackathon Design & Execution](#hackathon-design--execution)
 2. [Unconferences & Open Space Technology](#unconferences--open-space-technology)
-3. [Design Sprints & Compressed Variants](#design-sprints--compressed-variants)
+3. [Design Sprints](#design-sprints)
 4. [Cross-Format Principles](#cross-format-principles)
 5. [Virtual & Hybrid Considerations](#virtual--hybrid-considerations)
 6. [Sources & Further Reading](#sources--further-reading)
@@ -33,69 +33,22 @@ Hackathons are intensive, typically 24-72 hour events where teams collaborate to
 
 ---
 
-### Complete Hackathon Timeline (4-9 Months)
+### Planning Runway
 
-The MLH (Major League Hacking) organizer guide provides a comprehensive pre-event planning framework:
+Major League Hacking publishes a thorough organizer guide with a full planning calendar, and it is the best free resource on this: https://guide.mlh.io/. Their timeline is theirs and is not restated here. What follows is the shape of the problem and the ordering we would hold onto.
 
-#### Phase 1: Foundation (4-9 months before)
-- Establish event date and purpose
-- Assemble core leadership team
-- Secure venue
-- Define target audience and event size
+Give yourself months rather than weeks. The two things that take longest, money and people, are the two that cannot be rushed at the end. Sponsors have their own decision cycles and need something to say yes to. Participants need enough notice to clear a weekend and find people to build with.
 
-#### Phase 2: Planning & Outreach (4 months before)
-- Launch placeholder website
-- Create detailed budget and sponsorship prospectus
-- Begin sponsor recruitment
-- Consider MLH membership application
+The ordering matters more than the dates:
 
-#### Phase 3: Marketing & Registration (3 months before)
-- Promote event widely across target communities
-- Deploy main website with full details
-- Open participant registration
-- Plan hacker experience and day-of logistics
-- Recruit volunteers and team members
+- **What gates everything else comes first:** the date, the venue, and a short honest answer to why this event exists at all. Every later decision is a consequence of those three, so making them late means remaking everything.
+- **Money next**, because the budget sets the size of the event and the size changes every other choice. Work out what you need before you promise anyone anything.
+- **Then the audience.** Open registration once the page can answer what someone actually gets out of turning up, not before. An early page with nothing on it spends attention you only get once.
+- **Then the machinery participants will meet on the day:** how judging works, how mentors get found, what people eat, where they ask questions. This is the part first-time organizers underestimate, and it is the part attendees experience most directly.
+- **The final month is rehearsal, not design.** Numbers get confirmed, materials get made, the run of show gets written down. If you are still designing the event a month out, something needs cutting.
+- **The last week is logistics only.** Reminders, setup, safety, a walkthrough with the team.
 
-#### Phase 4: Operations Setup (2 months before)
-- Develop judging frameworks and criteria
-- Develop mentorship structure and guidelines
-- Recruit judges and mentors
-- Coordinate vendors and catering
-- Design workshops and mini-events
-- Select and test communication platforms
-
-#### Phase 5: Final Preparation (1 month before)
-- Create detailed "run of show" schedule
-- Confirm final attendance numbers
-- Finalize catering and dietary accommodations
-- Arrange transportation for participants
-- Prepare judge and mentor onboarding materials
-- Set up submission and judging systems
-
-#### Phase 6: Pre-Event (1 week before)
-- Send participant reminders and logistics
-- Conduct physical venue setup
-- Prepare emergency and safety protocols
-- Conduct team schedule rehearsal
-- Final follow-up with judges and mentors
-
-#### Game Day Structure
-- Check-in and registration
-- Opening ceremony and kickoff
-- Team formation and idea pitching
-- Mentorship rotations and office hours
-- Workshops and mini-events
-- Continuous support and troubleshooting
-- Judging and winner announcement
-- Closing ceremony
-
-#### Post-Event
-- Follow-up communication with participants
-- Feedback collection and analysis
-- Sponsor appreciation and reporting
-- Results documentation and sharing
-
----
+Afterwards, do the four things almost everyone skips: thank people properly, ask them what actually happened, tell sponsors what they bought in terms they care about, and publish what got built so the work outlives the weekend.
 
 ### Event Duration & Timing Flexibility
 
@@ -227,141 +180,27 @@ Provide all mentors with a guide addressing:
 
 ### Judging System Design
 
-Judging is often underplanned despite being crucial to fairness and hacker satisfaction. MLH recommends a science-fair style format over traditional pitch competitions.
+Judging is the most under-planned part of most hackathons and the part participants remember longest, because it is where the event tells people whether their weekend counted. Major League Hacking's organizer guide covers judging mechanics in detail and is worth reading before you design yours: https://guide.mlh.io/. The guidance below is our own, and it is about the decisions rather than the procedure.
 
-#### Judging Philosophy
+**Decide first whether teams come to the judges or the judges come to the teams.** Judges walking a room of tables, seeing everything, is the fairer arrangement and the easier one to run: nobody is ranked against a subset of the field they happened to share a room with, teams stay with their work, and a demo that breaks can be shown rather than described. Stage pitches produce a better spectacle and a worse result, because they quietly reward presentation skill over what got built. If you want the ceremony, run the pitches for the finalists after the judging, not as the judging.
 
-- Focus on projects built (not pitch quality) — what did they make?
-- Prioritize learning over profit — most hackers attend for education and creativity
-- Evaluate work completed during the event window
-- Assess team effort and collaborative process
+**Weight what was made, not how it was sold.** A rubric that leans on pitch quality selects for confidence, which correlates with prior experience, which is the opposite of what most hackathons say they are for. Pick a small number of dimensions, tell teams what they are before the event starts, and keep the list short enough that judges can hold it in their heads while walking a room.
 
-#### Science-Fair Format (Recommended)
+**Work out how many judges you need before you promise a judging window.** The arithmetic is simple and unforgiving:
 
-**Structure**:
-- Teams set up at assigned table stations
-- Project numbers visible (optionally on tall sticks for ease)
-- Judges rotate through tables in sequence
-- Each team presents to judges at their station (no separate judging room)
-
-**Advantages**:
-- Fairer evaluation (judges see all projects, not isolated subsets)
-- Avoids bias from room-based judge assignment
-- Hackers remain at their projects and can demo live
-- Less logistical complexity
-
-**Against**: Having judges in separate rooms where teams rotate creates fairness issues because teams are only judged against projects in the same room.
-
-#### Judging Timeline & Allocation
-
-**Judge Count Formula**:
 ```
-J = ⌈(P × n × t) / T⌉
-
-Where:
-  J = number of judges needed
-  P = number of submitted projects
-  n = judging rounds per project (recommended: 3)
-  t = time per project (recommended: 4 minutes)
-  T = total judging time allocated
+judges needed = (projects × rounds per project × minutes per project) / minutes of judging time
 ```
 
-**Example**: 175 projects with 2 hours available = 18 judges needed
+Three rounds per project and a few minutes each is a reasonable starting point, and rounding up is always correct. Do this sum early, because the answer is usually "more judges than you have invited" and judges take weeks to recruit. This formula and the recommendation to see each project more than once both come from MLH's guide, linked above.
 
-**Time allocations**:
-- Strict 3-minute demo per team (measured and enforced)
-- 2-3 hours total judging time (depending on scale)
-- Buffer time for tie-breaking and deliberation
+**Normalize across judges rather than trusting their scores.** Judges score on wildly different scales, and averaging harsh and generous scorers together mostly measures who happened to see whom. Asking each judge for a short ranked list instead of absolute numbers, then aggregating the rankings, removes most of that noise for very little extra effort.
 
-#### Submission & Demo Process
+**Protect the time limit and say so in advance.** A firm few minutes per team, announced beforehand and held to on the day, is what makes the process fair. Teams plan for the limit they are told about, so changing it mid-event penalizes the ones who believed you.
 
-**Demo Video Submissions**:
-- Teams submit 2-minute demo videos (not presentations)
-- Videos show hack in action, not slide presentations
-- Videos used as reference during judge deliberations
-- Provides backup if technical demo fails
+**Give judges a backup and a fallback.** Ask for a short demo video at submission. It gives judges something to review during deliberation, and it saves any team whose laptop chooses the worst possible moment.
 
-**Live Demo Setup**:
-- Teams demonstrate projects at their table stations
-- Judges can ask clarification questions (3 min limit)
-- Technical issues don't eliminate teams (video reference available)
-- Clear project identification and submission info at each station
-
-#### Judging Criteria
-
-Common evaluation dimensions:
-
-**Technological Implementation** (30%):
-- Technical sophistication and complexity
-- Effective use of required tools and technologies
-- Code quality and architecture
-
-**Problem & Solution** (25%):
-- Does the project solve a real problem?
-- Team demonstrates understanding of problem
-- Solution is appropriate for the challenge
-
-**Innovation & Creativity** (20%):
-- Originality of approach
-- Creative thinking and novel solutions
-- Risk-taking and boldness
-
-**User Experience & Ease of Use** (15%):
-- Intuitive design and smooth interactions
-- User-friendly implementation
-- Thoughtful user experience decisions
-
-**Teamwork & Presentation** (10%):
-- Team chemistry and collaboration visible
-- Clear division of tasks and responsibilities
-- Coherent demo storytelling
-- How well the pitch/presentation sells the idea
-
-**Note**: Avoid pure pitch quality criteria; focus on what was built, not rhetoric.
-
-#### Judge Training Session
-
-Before judging begins, remind judges:
-
-1. Maintain strict 3-minute time limits (fairness for all teams)
-2. Prioritize learning over profit — this is educational
-3. Identify top 3 projects from their assigned set
-4. Report any rule violations or integrity concerns
-5. Ask substantive questions about the work
-
-Provide:
-- Judging rubric and scoring guidance
-- Project submission spreadsheet with team names
-- Clarity on tie-breaking procedures
-- Help desk area for judge questions
-
-#### Winner Selection: Stack Ranking Method
-
-The most effective fair method is stack ranking, which normalizes across judges with varying scoring tendencies:
-
-**Process**:
-1. Each judge reports their top 3 favorite projects
-2. Assign points: 3 points (1st choice), 2 points (2nd), 1 point (3rd)
-3. Tally cumulative scores across all judges
-4. Top 3-5 projects float to the top
-5. Organizers validate finalist projects for rule compliance
-6. Announce winners
-
-**Advantages**:
-- Eliminates scoring bias (relative ranking vs. absolute scores)
-- No arbitrary scoring scales
-- Clear fairness to participants
-- Simple to administer
-
-#### Communication During Judging
-
-Keep hackers engaged while judges deliberate:
-- Announce progress: "judges have reviewed about 50% of projects"
-- Provide estimated winner announcement time
-- Keep energy up with mini-events or activities
-- Be transparent about any delays
-
----
+**Keep the room informed while you deliberate.** Silence after demos reads as chaos. Say roughly how far along judging is and when results are coming, and put something on for people to do while they wait.
 
 ### Mini-Events & Energy Management
 
@@ -395,7 +234,6 @@ Multi-day hackathons require active energy management. Mini-events provide break
 
 **Social & Wellness Activities**:
 - Slideshow karaoke (random presentations without preparation)
-- Two truths and a lie (Slack/Discord)
 - Hourly conversation prompts and icebreakers
 - Music voting/DJ activities
 - Group stretching and calisthenics
@@ -548,7 +386,7 @@ Modern hackathons exist across the participation spectrum. Each format has disti
 
 ## UNCONFERENCES & OPEN SPACE TECHNOLOGY
 
-Unconferences are participant-driven events where attendees design the agenda. Open Space Technology (OST), developed by Harrison Owen in the early 1980s, is the most common framework. Used in 140+ countries over 40+ years.
+Unconferences are participant-driven events where attendees design the agenda. Open Space Technology (OST), developed by Harrison Owen in the mid-1980s, is the most common framework, and it has been run widely around the world ever since.
 
 > **The method itself lives in `facilitation-methods.md`**, where it is described and pointed at Harrison Owen's own materials rather than restated. This section covers what is unconference-specific: when this event format works, how to get people actually moving between sessions in practice, and the BarCamp variant.
 
@@ -618,240 +456,40 @@ BarCamp is a specific unconference format, similar to Open Space but with differ
 
 ---
 
-## DESIGN SPRINTS & COMPRESSED VARIANTS
+## DESIGN SPRINTS
 
-A Design Sprint is a structured five-day process developed by Google Ventures (GV) to quickly test ideas, create prototypes, and collect user feedback. The methodology combines design thinking, rapid prototyping, and user testing to validate ideas before major investment.
+A design sprint is a time-boxed run at one big product question, where a small team goes from framing the problem to putting something in front of real people inside a single short stretch of calendar time. The point is to buy the answer cheaply, before anyone commits budget to building the thing for real.
 
-### Core Design Sprint Methodology
+The format was developed at Google Ventures by Jake Knapp and colleagues, and it is published in full, with its own day structure, roles, exercises and timings, in their book and on their own sites. None of that is restated here. If you want to run a design sprint, run theirs, in their words.
 
-**Philosophy**: Rather than building complete products and waiting for market feedback, design sprints use realistic prototypes to enable genuine customer feedback, allowing teams to "fast-forward into the future to see your finished product and customer reactions, before making any expensive commitments."
+- The Design Sprint, Google Ventures: https://www.gv.com/sprint/
+- The Sprint Book, by Jake Knapp with John Zeratsky and Braden Kowitz: https://www.thesprintbook.com/the-design-sprint
+- Design Sprint Kit, Google: https://designsprintkit.withgoogle.com/
 
-**Team composition**:
-- Decider (decision-maker with authority)
-- Facilitator (sprint leader and timekeeper)
-- 3-5 core team members
-- Customer/domain experts (available for consultation)
-- Recommended: 7 people or fewer
+What this skill adds is the question that comes before the method: whether a sprint shape is right for the event you are actually hosting. Sprints and hackathons look similar from the outside, and they want very different things from a room.
 
-**Timeline**: One week (Monday-Friday), with full team presence required
+### When a sprint shape fits a build event
 
----
+A sprint shape earns its place when all of these are true:
 
-### Five-Day Structure
+- **There is one question, and the room agrees on what it is.** Sprints converge on an answer. Hackathons diverge into projects. A room carrying five unrelated ideas will not converge no matter how well you facilitate, and forcing it will just make four of the five feel unwelcome.
+- **Somebody present can actually decide.** The convergence only happens because a real decision gets made partway through. If the person with that authority is not in the room for the whole thing, you are running a workshop that produces a recommendation, which is a fine thing to run but a different thing to promise.
+- **You can put the work in front of real users.** The test is the payoff. Without it you have a well-facilitated opinion, and the team will trust it more than it deserves precisely because the process felt rigorous.
+- **The same people can stay for the whole run.** Sprints are built on continuity of context. A rotating cast pays for the missing context out of the shared time, over and over.
 
-#### Monday: Map & Understand
+A sprint shape is the wrong choice when the learning is the point rather than the answer, when people came to build the thing they personally care about, or when the group is large. Sprints are small-room formats. If you have forty people and one question, you want a facilitated large-group method instead, and the methods file has several.
 
-**Objectives**:
-- Establish long-term goals
-- Map the customer journey and pain points
-- Consult internal experts and stakeholders
-- Identify the specific target problem to solve
+### What to settle before you commit
 
-**Activities**:
-1. **Long-term vision setting** (morning)
-   - Define the 6-month or 1-year vision
-   - Discuss business goals and success metrics
+Decide these five things before you put a sprint on anyone's calendar, because each of them is expensive to discover halfway through:
 
-2. **Expert lightning talks** (midday)
-   - Internal experts present knowledge in 15-min talks
-   - Cover customer research, technical constraints, market context
-   - Inform team's understanding of the problem space
+1. **The question, written down in one sentence.** If two people in the room would write it differently, you are not ready yet, and the writing is the cheap part.
+2. **Who decides, by name.** Not a committee, not a role, a person. Tell them in advance that this is the job, so it is not a surprise on the day.
+3. **Where the users come from.** Recruiting is the step that quietly sinks sprints. Book the participants before you book the room.
+4. **What a "no" would look like.** Agree in advance what result would make the team stop, not just what would make them proceed. A process that can only say yes is a rehearsal, not a test.
+5. **Who owns whatever comes out of it, the Monday after.** Sprint output with no owner decays faster than almost any other artefact a gathering can produce.
 
-3. **Customer journey mapping** (afternoon)
-   - Plot customer experience from awareness to retention
-   - Identify key moments and pain points
-   - Focus on where intervention could have impact
-
-4. **Problem definition**
-   - Narrow from broad challenge to specific problem
-   - Write clear problem statement for sprint
-   - Identify success metrics for testing
-
-**Output**: Shared understanding of problem space and clear sprint focus
-
-#### Tuesday: Diverge & Sketch
-
-**Objectives**:
-- Explore multiple solution approaches
-- Generate diverse ideas without constraints
-- Prepare for decision-making Wednesday
-
-**Activities**:
-
-1. **Existing solutions review** (morning)
-   - Research how other companies solved similar problems
-   - Avoid narrow thinking and confirm assumptions
-   - Identify patterns and inspirations
-
-2. **Individual sketching** (afternoon)
-   - Four-step process (20 minutes per step):
-     1. Take notes on problem (5 min)
-     2. Sketch rough ideas and doodles (5 min)
-     3. Focus on solution concepts (5 min)
-     4. Create final detailed sketch with annotations (5 min)
-   - Each person sketches independently
-   - Solutions should be complete enough to understand but rough enough to not constrain others
-
-3. **Silent review & feedback**
-   - Sketches posted where team can review
-   - Written stickies with comments and questions
-   - No discussion yet; focus on generating options
-
-**Output**: 5+ diverse solution approaches, representing different strategic directions
-
-#### Wednesday: Decide & Storyboard
-
-**Objectives**:
-- Select strongest solution approaches
-- Combine winning elements into integrated plan
-- Plan the prototype to be built Thursday
-
-**Activities**:
-
-1. **Sketch critique** (morning)
-   - Team reviews all sketches
-   - Discuss merits of different approaches
-   - Decider listens and takes notes
-
-2. **Solution selection** (midday)
-   - Decider chooses strongest approach(es)
-   - Can be single solution or combination
-   - Team discusses integration possibilities
-   - Aim for one clear direction
-
-3. **Storyboarding** (afternoon)
-   - Create frame-by-frame customer experience flow
-   - Show how customer discovers, uses, and benefits from solution
-   - Include key screens and decision points
-   - Annotate with explanations
-
-4. **Prototype planning**
-   - Define scope for Thursday's prototype
-   - Identify core customer interactions to test
-   - Assign prototype builder(s)
-
-**Output**: Detailed storyboard guiding Thursday's prototype build
-
-#### Thursday: Prototype & Prepare Testing
-
-**Objectives**:
-- Build high-fidelity but realistic prototype
-- Prepare interview scripts and research logistics
-- Avoid perfectionism; goal is fast learning, not polished product
-
-**Philosophy**: "Fake it" — focus on customer-facing surfaces. Build a realistic façade that enables genuine customer feedback.
-
-**Activities**:
-
-1. **Prototype building** (morning & midday)
-   - Use rapid prototyping tools:
-     - Figma, Adobe XD (for UI/design)
-     - Framer, Webflow (for interactive prototypes)
-     - Simple HTML/CSS (for web experiences)
-     - PowerPoint or Keynote (for walkthroughs)
-   - Focus on surfaces users see and interact with
-   - Skip backend, database, or complex infrastructure
-   - Create backup plan if tech fails (video walkthrough)
-
-2. **Interview script development** (afternoon)
-   - Draft open-ended questions
-   - Focus on customer reactions and feedback
-   - Avoid leading questions
-   - Plan session structure (welcome, walkthrough, questions)
-
-3. **Participant recruitment**
-   - Confirm 4-5 customer interviews scheduled
-   - Provide prototype link/access
-   - Send logistics details
-
-**Output**: Working prototype and prepared interview process
-
-#### Friday: Test & Learn
-
-**Objectives**:
-- Conduct customer interviews
-- Collect genuine feedback and reactions
-- Make next-step decisions
-
-**Activities**:
-
-1. **User interviews** (all day, in parallel)
-   - 45-60 minute sessions per participant
-   - 1-2 team members per interview
-   - Show prototype without explaining it
-   - Observe and listen
-   - Ask clarifying questions
-   - Take notes on reactions and feedback
-
-2. **Pattern identification**
-   - Team gathers after interviews
-   - Discuss common themes and reactions
-   - Note surprises and assumptions challenged
-   - Identify what worked and what didn't
-
-3. **Next step decision**
-   - Iterate: refine prototype and test again
-   - Pivot: pursue different direction
-   - Proceed: move to development with confidence
-   - Abandon: recognize the idea isn't viable
-
-**Output**: Customer feedback, validated assumptions, clear next steps
-
----
-
-### Compressed Sprint Variants
-
-Traditional five-day sprints aren't always possible. Several compressed variants exist:
-
-#### GV Research Sprint (4 days)
-
-**Format**: Four-day sprint focused on research-heavy discovery
-- Designed for startups needing faster answers on fundamental questions
-- Compresses Monday-Thursday activities
-- Eliminates some divergence and testing depth
-- Focus on foundational customer learning
-
-#### 2-Day Design Sprint
-
-**Structure**:
-- **Day 1**: Understand + Diverge (compressed)
-  - 2-3 hour customer research summary
-  - Quick expert inputs
-  - Rapid sketching (Crazy 8s variant)
-- **Day 2**: Decide + Prototype + Quick feedback
-  - Vote on solutions (20 min)
-  - Rapid prototype (60-90 min)
-  - Feedback through quick interviews or testing (90 min)
-
-**When to use**: Tight deadlines, smaller teams, incremental validation
-
-#### 1-Day Design Workshop
-
-**Format**: Condensed for teams with clear problem hypothesis
-- Use this when team already has problem clarity from discovery work
-- Focus on divergence and ideation
-
-**Structure**:
-- 30 min: Problem definition review + data presentation
-- 45 min: Crazy 8s sketching exercise (simplified to Crazy 4s: 4 minutes for 4 ideas)
-- 30 min: Solution selection and voting
-- 90 min: Rapid prototype build
-- 45 min: Feedback collection (peer review or quick user test)
-
-**Key difference**: Pre-workshop preparation is critical to success. Teams must:
-- Understand the problem deeply
-- Have hypothesis to test
-- Skip customer research phase
-
-**Pre-workshop work**:
-- Conduct customer interviews separately
-- Create personas or empathy maps of key findings
-- Document insights clearly
-- Share learnings with sprint team before workshop
-
-**Output**: Validated solution direction and rapid prototype
-
----
+If you cannot answer all five, the honest recommendation is usually to run something shorter and looser first, get the question sharp, and sprint later with a room that knows what it is asking.
 
 ### Prototyping & Testing Best Practices
 
@@ -953,10 +591,11 @@ Intensive events benefit from structured activities that build connection and ma
 #### Effective Icebreaker Activities
 
 **Low-pressure options**:
-- Two truths and a lie (people guess which is false)
 - Speed networking (rotate partner every 3 min)
 - Common ground (find something you share with someone new)
 - Question cards (answer random interesting question)
+
+Skip the ones the room has already done a hundred times, two truths and a lie in particular. `facilitator-pain-points.md` covers why a familiar icebreaker with no connection to the session lands worse than no icebreaker at all.
 
 **Creative options**:
 - Sketchpad challenge (draw something in 2 minutes)
@@ -1236,7 +875,7 @@ The hybrid event challenge: co-located participants have inherent advantages (in
 | **Outcome** | Projects/prototypes | Insights, network | Validated prototype | Skills learned | Company/traction |
 | **Participant** | Builders, makers | Learners, experts | Problem solvers | Learners | Founders |
 | **Cost** | Medium-High | Low-Medium | Medium | Low-Medium | High (investment) |
-| **Ideal Group** | 30-500 | 20-300 | 6-8 | 8-30 | 10-20 |
+| **Ideal Group** | 30-500 | 20-300 | Small team | 8-30 | 10-20 |
 | **Learning Style** | Peer + self-directed | Peer + dialogue | Customer feedback | Instructor-led | Mentorship + peer |
 | **Virtual Friendly** | Yes | Yes | No (needs presence) | Yes | Hybrid recommended |
 

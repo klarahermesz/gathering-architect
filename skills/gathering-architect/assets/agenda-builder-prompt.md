@@ -2,8 +2,6 @@
 
 A structured prompt template for generating a first-draft agenda from a small set of inputs. Hand the filled-in version to Claude, ChatGPT, or any capable AI assistant and you'll get a draft agenda mapped to the SET / HOLD / LAND arc, with method recommendations and energy notes.
 
-> **Why this is a prompt, not a script:** The CHANGELOG originally proposed `scripts/agenda_builder.py`. We chose a prompt template instead because the natural primitive for this skill is an AI conversation, not a code execution — and because most users of this skill don't want to install Python to plan a meeting. If you want a script too, the inputs section below maps cleanly to interactive `input()` calls; the instructions section maps to a system prompt for a small LLM wrapper. Easy to build later if there's demand.
-
 ---
 
 ## How to use this prompt

@@ -76,7 +76,7 @@ This file is the canonical home for **Open Space Technology** (unconferences as 
 
 ## RAPID PARTICIPATION METHODS
 
-Six of these are Klara's own designs. The other two, Think, Pair, Room and The Headline and the Cause, adapt established formats credited in their own Source lines below. All eight are built for getting full-room participation fast: small constraints that stop a few voices from dominating and get everyone contributing. Several other collections work the same territory, and they are worth reading in their own words rather than in ours. The best known is Liberating Structures (Henri Lipmanowicz and Keith McCandless, liberatingstructures.com), whose 33 microstructures are published in full with their own facilitation scripts. Their license is non-commercial only, so check it before running their originals in a paid engagement. Nothing below is drawn from it.
+Five of these are Klara's own designs. The other three, Think, Pair, Room, Both/And Statements and The Headline and the Cause, adapt established formats credited in their own Source lines below. All eight are built for getting full-room participation fast: small constraints that stop a few voices from dominating and get everyone contributing. Several other collections work the same territory, and they are worth reading in their own words rather than in ours. The best known is Liberating Structures (Henri Lipmanowicz and Keith McCandless, liberatingstructures.com), whose 33 microstructures are published in full with their own facilitation scripts. Their license is non-commercial only, so check it before running their originals in a paid engagement. One method below, Both/And Statements, works an instrument that is close kin to their Wicked Questions, and its Source line says so. Nothing else here is drawn from that collection.
 
 ### 1. Think, Pair, Room
 
@@ -194,7 +194,7 @@ Run a second round with a new owner if you have time.
 
 **Variations:** Use as a closing exercise to surface what's unresolved before people leave, run individually first for politically sensitive topics
 
-**Source:** Klara's original design.
+**Source:** the both/and framing of a tension, where the two sides are held together and neither is allowed to lose, comes from Barry Johnson's polarity work, "Polarity Management: Identifying and Managing Unsolvable Problems," HRD Press, 1992. The drafting instrument in steps 1 and 2, a fill-in-the-blank paradox stem that a group uses to generate several statements and then narrow, is close kin to Wicked Questions in the Liberating Structures collection (Henri Lipmanowicz and Keith McCandless, https://www.liberatingstructures.com, CC BY-NC 4.0, non-commercial use only), which does the same work in question form rather than statement form. This version's adaptations are the generosity test in step 3, where a statement gets rewritten until it reads fairly to both sides instead of quietly blaming one of them, and the single "most alive right now" pick in step 4 rather than keeping the full set. If you want the original instrument with its own facilitation script, read it in their words at liberatingstructures.com, and mind the licence before you run it in paid work.
 
 ---
 

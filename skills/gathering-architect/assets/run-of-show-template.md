@@ -64,7 +64,7 @@ Sketch the intended energy shape in words. Examples: "low → high → reflectiv
 
 ## Pre-event checklist
 
-The 80% of facilitation that happens before anyone walks in.
+The part of facilitation that happens before anyone walks in, which is most of it.
 
 ### T-7 days
 - [ ] Invitations sent with clear purpose, time, and what to bring
