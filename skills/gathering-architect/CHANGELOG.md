@@ -2,6 +2,48 @@
 
 All notable changes to the Gathering Architect skill are recorded here. This skill is licensed under the [Apache License, Version 2.0](../../LICENSE).
 
+## 3.5.1
+
+**The residue the attribution pass left behind.**
+
+A sixth independent review confirmed that the large reductions in 3.5.0 had
+landed, and then found five smaller things still sitting in the files: a
+Source line claiming more originality than it had earned, two pieces of
+someone else's structure still legible inside our own prose, an unattributed
+quotation, and one framework whose body contradicted what NOTICE said about
+it.
+
+- **Both/And Statements no longer claims adaptations it does not have.** The
+  Source line presented the generosity test and the "most alive" pick as this
+  version's own contributions. Both already exist in the published Wicked
+  Questions procedure, which asks for a balanced pair that blames neither
+  side and has the group settle on the strongest one. The line now says
+  plainly that the statement form and the framing for a team looking at its
+  own situation are the only real differences.
+- **The design sprint prototyping block is rebuilt around a different
+  question.** "Prototyping & Testing Best Practices" carried the
+  prototype-and-test spine of the GV Sprint in list form, down to the
+  interview count and the video fallback. It is replaced by this skill's own
+  short piece on what a rough build can teach you, organized by which belief
+  you are putting at risk, who is capable of surprising you, and agreeing
+  what a no looks like before you show anyone anything. The format comparison
+  matrix also loses the sprint's fixed day count and the role gloss beside
+  it.
+- **BarCamp is cut to identification level** and gains a NOTICE Section A
+  entry of its own. What it is, where it came from, and where the community
+  documents it. The characteristics list and the session-grid process are
+  gone.
+- **The large-group connection guidance is reorganized.** It still walked the
+  component order of the training it points readers to, one paragraph per
+  component. It is now organized by what breaks first as a group grows, and
+  it is shorter for the change.
+- **The JRC Playbook section now matches what NOTICE says about it.** The
+  facet naming, the prescribed launch sequence and the instruction to rate
+  yourselves on all eight are removed. The framework stays named, linked and
+  described.
+- One line in `references/social-learning-evidence.md` quoted a phrase with
+  no speaker attached to it. It is now written in our own words.
+
 ## 3.5.0
 
 **Attribution and evidence hygiene.**

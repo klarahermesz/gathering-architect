@@ -560,7 +560,7 @@ Covers: foundational theories (Bandura, Vygotsky, Lave & Wenger), peer learning 
 
 ### 11.1 Communities of Practice: Knowledge Sharing and Organizational Learning
 
-**Core Mechanism:** In CoPs, knowledge sharing becomes "almost a natural process" (vs. organizational barriers elsewhere)
+**Core Mechanism:** In CoPs, sharing what you know tends to become ordinary practice rather than something that has to be prompted, where elsewhere it runs into organizational barriers
 
 **Evidence for Knowledge Sharing:**
 - Best organizational learning comes from shared, discussed, and applied knowledge (not codification alone)

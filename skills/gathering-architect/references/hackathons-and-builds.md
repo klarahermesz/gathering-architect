@@ -437,22 +437,10 @@ Open Space depends on participants leaving a session that isn't working for them
 
 ### Related Formats: BarCamp
 
-BarCamp is a specific unconference format, similar to Open Space but with different session selection mechanics:
+BarCamp is an open unconference tradition that began in Palo Alto in 2005 as a community-run answer to an invitation-only gathering, and it spread because the people who started it deliberately left the name and the shape free for anyone to pick up. It is a tradition rather than a product. There is no owning organisation, no certification and no canonical script, and what any particular BarCamp does is decided by the people who turn up to run it. If you are considering one, read how the community itself describes it rather than working from anyone's summary.
 
-**BarCamp characteristics**:
-- Participants write session topics on a whiteboard or Post-It notes
-- Session grid filled in by topics and facilitators
-- All slots filled before event starts
-- Single-track or multi-track parallel sessions
-- More structured than pure Open Space
-- Emphasis on participation and peer learning
-
-**BarCamp process**:
-1. Morning session planning with facilitators and participants
-2. Session topics written on central grid
-3. Participants choose sessions throughout day
-4. Emphasis on "unconference" spirit (no slides, minimal preparation)
-5. Group-led discussions and peer teaching
+- BarCamp community wiki: https://barcamp.org
+- Background and history: https://en.wikipedia.org/wiki/BarCamp
 
 ---
 
@@ -491,31 +479,13 @@ Decide these five things before you put a sprint on anyone's calendar, because e
 
 If you cannot answer all five, the honest recommendation is usually to run something shorter and looser first, get the question sharp, and sprint later with a room that knows what it is asking.
 
-### Prototyping & Testing Best Practices
+### What a rough build can actually teach you
 
-**Prototype fidelity philosophy**:
-- Build just enough fidelity to enable genuine customer feedback
-- Avoid perfectionism
-- High-fidelity UI with limited functionality is fine
-- Video walkthroughs can substitute for interactive prototypes
-- Single user flow sufficient (no need for complete product)
+A prototype is an argument made physical so that somebody outside the team can disagree with it. That is the whole of its job, and it is why the question worth asking before you build is not how much to build but which belief you are putting at risk. A team that cannot name the belief keeps building until the thing looks finished, because finished is the only stopping rule left to them.
 
-**Testing best practices**:
-- 4-5 customer interviews minimum
-- Use realistic usage context when possible
-- Show prototype without explanation first
-- Ask open-ended questions (not yes/no)
-- Listen more than talk
-- Probe surprising reactions
-- Document reactions and feedback
-- Look for patterns across interviews
+Most builds that teach nothing were shown to a room that could not have been surprised. Colleagues, friends of the team and the person who first suggested the idea will give you warmth and no information. The people worth watching are the ones with somewhere else to go, and what you are watching for is whether the thing changed what they would do next, not whether they said something kind about it.
 
-**Common pitfalls to avoid**:
-- Explaining the prototype (let customer discover)
-- Defending design choices
-- Building too much (wasted effort)
-- Testing with wrong customer segment
-- Testing ideas instead of understanding needs
+Decide before you show it what would count as a no, and say it out loud to the team. Testing has a way of producing encouraging noise, and a group that has not agreed in advance what disappointment would look like will find some in almost any set of reactions. Write down the response that would stop you, and if it turns up, report it first.
 
 ---
 
@@ -869,9 +839,9 @@ The hybrid event challenge: co-located participants have inherent advantages (in
 
 | Aspect | Hackathon | Unconference | Design Sprint | Workshop | Accelerator |
 |--------|-----------|--------------|--------------|----------|------------|
-| **Duration** | 24-72 hrs | 1-3 days | 5 days | 2-8 hours | 3-6 months |
+| **Duration** | 24-72 hrs | 1-3 days | Multi-day, fixed | 2-8 hours | 3-6 months |
 | **Planning** | Structured | Self-organized | Highly structured | Structured | Long-term planning |
-| **Facilitator Role** | Active, enabling | Light, background | Strong, timekeeper | Instructor | Mentor, coach |
+| **Facilitator Role** | Active, enabling | Light, background | Strong | Instructor | Mentor, coach |
 | **Outcome** | Projects/prototypes | Insights, network | Validated prototype | Skills learned | Company/traction |
 | **Participant** | Builders, makers | Learners, experts | Problem solvers | Learners | Founders |
 | **Cost** | Medium-High | Low-Medium | Medium | Low-Medium | High (investment) |

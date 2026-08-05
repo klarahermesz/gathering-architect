@@ -23,7 +23,7 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 
 **The Mistake:** Facilitators begin planning by consulting event planners, chefs, and AV specialists. The focus lands on food, decorations, PowerPoint, invitations, cutlery, and refreshments. The human challenge gets shrunk down to a logistical one.
 
-**Why It Fails:** When hosts don't actively shape the purpose, they inadvertently hope that "chemistry will somehow take care of itself." The result is mediocre gatherings where logistics dominate but meaning evaporates.
+**Why It Fails:** When hosts don't actively shape the purpose, they are quietly hoping that chemistry will take care of itself. The result is mediocre gatherings where logistics dominate but meaning evaporates.
 
 **What Experts Say:** Priya Parker calls this "the biggest mistake we make when we gather"—assuming everyone knows the purpose. A category is not a purpose. "I'm hosting a meeting about our product release" is not specific enough. It needs to answer: Why does this matter? What problem does it solve? Who specifically needs to be here?
 
@@ -538,17 +538,15 @@ Common mistakes, advanced challenges, and non-obvious event design wisdom. This 
 
 **What we would do:**
 
-The move that changes a big room is giving people a smaller room to belong to. Put everyone in a standing unit of a size they can actually hold in their head, give that unit a name and someone who knows who is in it, and the hundred stops being a hundred. People will tell you afterwards that the day felt intimate, and what they are describing is the table, not the hall.
+Scale does not degrade a gathering evenly. It takes out one thing at a time, in a fairly reliable order, and knowing the order tells you where the design effort is worth spending.
 
-Do the thinking work at the size the thinking needs. A room of two hundred can still run pairs, triads and table conversations, and Think, Pair, Room in `facilitation-methods.md` scales further than most facilitators expect. What does not scale is the whole-group discussion, so stop asking a large room to have one.
+The first casualty is the whole-group conversation, and it goes long before the room feels big. What worked at twenty becomes six confident people talking and everyone else watching, which is not a discussion, it is a panel that nobody agreed to be an audience for. Stop asking a large room to have one conversation and you have removed the most common failure of big events in a single decision.
 
-Design the informal time rather than announcing it. "Mingle" is not an instruction, it is a hope, and it reliably sends people back to whoever they arrived with. Assign the tables, give the conversation a prompt worth answering, and mix the groupings across the day so people meet more than their first three neighbours.
+The next thing to go is the sense of being accounted for. In a hall, nobody notices whether you came back after lunch, and people can feel that nobody would. The repair is a standing unit that a person belongs to for the whole day, small enough to hold in their head and stable enough that an empty chair in it would be noticed by somebody. Give it a name. People will tell you afterwards that the day felt intimate, and what they are describing is the table, not the hall.
 
-Offer more than one depth of participation. In any large room some people want a real conversation and some want three light ones, and both are legitimate ways to spend a day. Build activities at different levels of exposure and let people choose rather than sorting everyone into the same vulnerability.
+Last to go, and hardest to see from the front, is the chance of meeting anyone new. Left to itself a large room sorts into the groups it arrived in and stays there, because approaching a stranger costs more when there are two hundred of them and any of them might be busy. This is the part that has to be built into the agenda rather than announced from the stage, and mostly it means giving people a reason to be somewhere specific with somebody they did not choose.
 
-Watch your own energy, because in a large room it is public. Fatigue is visible from the back and it spreads. Share the front with a co-facilitator, take real breaks rather than working through them, and lean on methods that put the work in the room instead of on you.
-
-Start before the day starts. A group that has already exchanged something, a question, an introduction, a pairing, arrives warm. The cold start is the expensive part of any large gathering, and most of it can be paid down in advance.
+What survives scale intact is the thinking itself, which is worth knowing because that is where the value of the day sits. Pairs and small tables work as well at two hundred as at twenty, and `facilitation-methods.md` carries methods that hold at that size. Treat a big room as a problem of belonging and of traffic, not as a problem of capability.
 
 ---
 
@@ -587,7 +585,7 @@ In workshops, the reported pattern is the same: the sessions that land are the o
 2. **Pre-Work Strategy**
    - Send reading, reflection prompts, or preparation materials
    - Research shows participants who engage with pre-work demonstrate higher participation rates
-   - Pre-work "activates mental frameworks" so people absorb content faster
+   - Pre-work activates the frameworks people think with, so they absorb content faster on the day
    - Pre-work signals seriousness and importance
 
 3. **Priming and Context**

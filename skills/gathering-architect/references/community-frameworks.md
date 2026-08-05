@@ -105,22 +105,9 @@ The stages, the assessment dimensions and the workshop process are Tacit's own a
 
 ### What It Is
 
-The JRC Playbook is a comprehensive, evidence-based methodology for launching, developing, and sustaining communities of practice inside large organizations. It's particularly strong on governance, facilitation, and measurement.
+The JRC Playbook is an evidence-based methodology for launching, developing and sustaining communities of practice inside large organizations, and it is the most operational of the CoP frameworks named in this file. Its own facets, its guidance on working through them and its measurement material are the Playbook's, and they are published free in full at the link above. Read them there rather than from a summary.
 
-If your context is a small or informal community, Wenger or Community Canvas will serve better. If you need an enterprise-grade implementation playbook with role definitions, decision rights, and KPI tracking, JRC is the most operational of the CoP frameworks.
-
-### The Eight Success Facets
-
-See the Playbook itself for the full facet-by-facet breakdown: https://op.europa.eu/en/publication-detail/-/publication/8ea3f1b7-1b3f-11ec-b4fe-01aa75ed71a1
-
-
-
-### How to Use It
-
-The Playbook is structured so you can dip in by facet rather than reading linearly. Two common entry points:
-
-- **Launching a new CoP**: Work through Vision → Governance → Leadership → Convening in sequence, then layer in the others.
-- **Diagnosing a stuck CoP**: Rate yourselves 1-5 on each of the 8 facets. The lowest score usually reveals the bottleneck.
+If your context is a small or informal community, Wenger or Community Canvas will serve you better. Reach for JRC when you owe somebody formal governance, defined roles and reported numbers.
 
 ### When to Reach for JRC vs. Other CoP Frameworks
 
